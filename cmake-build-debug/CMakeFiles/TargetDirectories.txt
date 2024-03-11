@@ -1,9 +1,0 @@
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/lib/CMakeFiles/HamArc.dir
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/lib/CMakeFiles/ArgParser.dir
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/bin/CMakeFiles/hamarc.dir
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
-/Users/vladimirsimonov/CLionProjects/labwork6-closedcandies/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir
